@@ -1,0 +1,114 @@
+[
+ {
+   "id": 1,
+   "name": "Ralph 1",
+   "clicked": false,
+   "image":
+   "https://images-na.ssl-images-amazon.com/images/I/61pzW68V9qL.jpg"
+ },
+ {
+   "id": 2,
+   "name": "Ralph #2",
+   "clicked": false,
+   "image":
+     "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/Item/661711/5ac1ec1f24bc81cfa7c7063147bfc204._SX1600_QL80_TTD_.jpg"
+ },
+ {
+   "id": 3,
+   "name": "Ralph #3",
+   "clicked": false,
+   "image":
+     "https://prodimage.images-bn.com/pimages/2940161708798_p0_v1_s550x406.jpg"
+ },
+ {
+   "id": 4,
+   "name": "Ralph #4",
+   "clicked": false,
+   "image":
+     "https://is5-ssl.mzstatic.com/image/thumb/Publication118/v4/47/cc/ed/47cced69-c323-4041-95f4-d1c903f9e09f/rsa_0307_cover.jpg/268x0w.jpg"
+ },
+ {
+   "id": 5,
+   "name": "Ralph #5",
+   "clicked": false,
+   "image":
+     "https://storage.googleapis.com/hipcomic/p/408abd36bdcb4d28c6221939af1d2858-800.jpg"
+ },
+ {
+   "id": 6,
+   "name": "Ralph #6",
+   "clicked": false,
+   "image":
+     "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/Item/197568/SUB009689._SX1280_QL80_TTD_.jpg"
+ },
+ {
+   "id": 7,
+   "name": "Ralph #7",
+   "clicked": false,
+   "image":
+     "https://d1466nnw0ex81e.cloudfront.net/n_iv/600/1668821.jpg"
+ },
+ {
+   "id": 8,
+   "name": "Ralph #8",
+   "clicked": false,
+   "image":
+     "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/Item/530768/530768._SX360_QL80_TTD_.jpg"
+ },
+ {
+   "id": 9,
+   "name": "Ralph #9",
+   "clicked": false,
+   "image":
+     "https://images.wolfgangsvault.com/m/xlarge/ZZZ021701-CX/ralph-snart-adventures-comic-book-oct-1-1989.webp"
+ },
+ {
+   "id": 10,
+   "name": "Ralph 10",
+   "clicked": false,
+   "image":
+     "https://i.pinimg.com/originals/99/42/e7/9942e7c5bc2c82898c6ff88d4ad49ea9.jpg"
+ },
+ {
+   "id": 11,
+   "name": "Ralph 11",
+   "clicked": false,
+   "image":
+     "https://images-na.ssl-images-amazon.com/images/I/61TmS%2BD5X0L.jpg"
+ },
+ {
+   "id": 12,
+   "name": "Ralph 12",
+   "clicked": false,
+   "image":
+     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKK5FOckBCt6JMRXNd5czaPF7yMxTlPd7xJLx0FMUzOrMHI8Qc&s"
+ },
+ {
+   "id": 13,
+   "name": "Ralph 13",
+   "clicked": false,
+   "image":
+     "https://d1466nnw0ex81e.cloudfront.net/n_iv/600/881471.jpg"
+ },
+ {
+   "id": 14,
+   "name": "Ralph 14",
+   "clicked": false,
+   "image":
+     "https://img.thriftbooks.com/api/images/l/249025d2a37a55299e7b0f01472e8b3deec8c45f.jpg"
+ },
+ {
+   "id": 15,
+   "name": "Ralph 15",
+   "clicked": false,
+   "image":
+     "https://d1466nnw0ex81e.cloudfront.net/n_iv/600/572345.jpg"
+ },
+ {
+   "id": 16,
+   "name": "Ralph 16",
+   "clicked": false,
+   "image":
+     "https://d1466nnw0ex81e.cloudfront.net/n_iv/600/881487.jpg"
+ }
+]
